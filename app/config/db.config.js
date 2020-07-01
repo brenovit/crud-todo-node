@@ -1,9 +1,9 @@
 module.exports = {
-  HOST: 'localhost',
-  USER: 'kzmyciraobjdum',
-  PASSWORD: 'ff950f92cc48e0ddb686a8c62887e24317c0db313945299896432ab8909cb7a9',
-  DB: 'db3ioi6en02too',
-  dialect: 'postgres',
+  HOST: 'us-cdbr-east-02.cleardb.com',
+  USER: 'b3e595d57fa32f',
+  PASSWORD: '522922e5',
+  DB: 'heroku_1cc15b8d0160c05',
+  dialect: 'mysql',
   pool: {
     max: 5,
     min: 0,
